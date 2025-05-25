@@ -47,7 +47,7 @@ Bu proje şu anda kaynak kodları tam çalışır durumda değildir. Ancak, proj
 
 **Kurulum adımları:**
 
-1. `setup.exe` dosyasını çalıştırarak programı bilgisayarınıza kurun.  
+1. dist klasörü içerisindeki `setup.exe` dosyasını çalıştırarak programı bilgisayarınıza kurun.  
 2. Kurulum tamamlandıktan sonra masaüstünde veya başlangıç menüsünde oluşan kısayol ile programı açabilirsiniz.  
 3. Uygulama, birden fazla öğrenci hesabı oluşturup test sonuçlarını takip etmenize olanak sağlar.
 
